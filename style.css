@@ -73,7 +73,7 @@ body {
  
   @font-face {
     font-family: 'GrandifloraOne';
-    src: url('fonts/GrandifloraOne-Regular.ttf') format('truetype');
+    src: url("https://fonts.googleapis.com/css2?family=Grandiflora+One&display=swap") format('truetype');
     font-weight: 400;
     font-style: normal;
   }
